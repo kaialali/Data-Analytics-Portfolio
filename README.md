@@ -7,4 +7,5 @@ Below you will find a list of the projects with a brief discription about each o
 
 ## Data Wrangling Project
 Discription: This project was the final assignment from Data Wrangling course 
+
 Here is a link to the project notebook https://github.com/kaialali/Data-Science-Portfolio/blob/main/Khalifa_Al_Ali_Data_Wrangling_Hotel_Project.ipynb
