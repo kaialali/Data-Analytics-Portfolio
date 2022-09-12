@@ -3,13 +3,12 @@ This repository contains projects that I worked on during Wisconsin-Madison's Da
 Below you will find a list of the projects with a brief discription about each one and a link that will take you to the project notebook code or visualization 
 
 
-## Data Wrangling Project
+## Data Wrangling
 **Description and Notebook:**
-
 > This project was the final assignment from Data Wrangling course
 The notebook contains all the details about the project goal and requirements, you can find a link to the notebook [here.](https://github.com/kaialali/Data-Science-Portfolio/blob/main/Khalifa_Al_Ali_Data_Wrangling_Hotel_Project.ipynb)
 
-## Business Intelligence Project
+## Business Intelligence
 **Description:** 
 > This project was the final assignment from Business Intelligence course, the rquirement was to create a dashboard using one of the datasets provided to us.
 
@@ -20,3 +19,11 @@ The goal is to create a dashboard that allows users to compare Marvel vs. DC sup
 **Dashbaord:**
 > The most challenging part in this dashboard was the 'Select Genre' filter, which took me some time to figure out how to create it given that each movie belonged to multiple genres.
 You can find the dashboard [here.](https://public.tableau.com/app/profile/khalifa.al.ali/viz/Marvelvs_DC_16550871428330/Dashboard1#1)
+
+## SQL and Advanced SQL
+**Description:**
+> In this bootcamp we had a "SQL & databases" and "Advanced SQL Programming, by the end of each course we had practical exams that allowed us to demonstrate the skills we learned during class.
+**SQL & Databases:**
+> You can find the final exams answers I submitted here.
+**Advanced SQL Programming**
+> You can find the final exams answers I submitted here.
