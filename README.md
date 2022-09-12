@@ -25,7 +25,7 @@ You can find the dashboard [here.](https://public.tableau.com/app/profile/khalif
 > In this bootcamp we had a "SQL & databases" and "Advanced SQL Programming, by the end of each course we had practical exams that allowed us to demonstrate the skills we learned during class.
 
 **SQL & Databases:**
-> You can find the final exams answers I submitted here.
+> You can find the final exams answers I submitted [here.](https://github.com/kaialali/Data-Science-Portfolio/blob/main/Khalifa_AlAli%20Fina%20Project%20Answers.pdf)
 
 **Advanced SQL Programming**
-> You can find the final exams answers I submitted here.
+> You can find the final exams answers I submitted [here.](https://github.com/kaialali/Data-Science-Portfolio/blob/main/Final%20Project%20-%20Khalifa.pdf)
