@@ -32,6 +32,6 @@ You can find the dashboard [here.](https://public.tableau.com/app/profile/khalif
 
 ## Machine Learning
 **Description and Notebook:**
-> The final project in the Machine Learning course # Machine Learning: Final Project. The challenge was to build the most accurate model for predicting which passangers would survive the sinking of the Titanic using Titanic dataset found [here.]() 
-> We used two different models for our prediction then evaluate which one is the best. You can find the work done in the nootbook [here.](https://github.com/kaialali/Data-Science-Portfolio/blob/main/Khalifa_Al_Ali_Titanic_Machine_Learning_Final_Project-1.ipynb)
+> The final project in the Machine Learning course # Machine Learning: Final Project. The challenge was to build the most accurate model for predicting which passangers would survive the sinking of the Titanic using Titanic dataset found [here.](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv) 
+> I used two different models for the prediction then evaluated which one is the best, you can find the work done in the nootbook [here.](https://github.com/kaialali/Data-Science-Portfolio/blob/main/Khalifa_Al_Ali_Titanic_Machine_Learning_Final_Project-1.ipynb)
 
